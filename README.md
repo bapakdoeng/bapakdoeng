@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syukron Maulana</h1>
-<h3 align="center">Pemula</h3>
+<h3 align="center">Pemula Programmer</h3>
 
 - 💻
 
